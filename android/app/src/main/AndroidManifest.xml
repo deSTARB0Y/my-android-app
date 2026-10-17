@@ -1,5 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+        <meta-data
+    android:name="com.google.android.gms.ads.APPLICATION_ID"
+    android:value="ca-app-pub-1984002131625754~3130546393"/>
         android:label="my_android_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
